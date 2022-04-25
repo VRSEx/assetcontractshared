@@ -1,0 +1,2 @@
+# assetcontractshared
+Spice
